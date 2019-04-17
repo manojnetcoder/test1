@@ -1,1 +1,1 @@
-select * from [dbo].[NewEmployee1]
+select * from [NewEmployee1]
