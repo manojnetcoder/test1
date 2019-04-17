@@ -1,1 +1,1 @@
-   select * from tblPersonal   
+   select * from dbo.tblPersonal   
